@@ -12,15 +12,13 @@ After this talk, you will understand the implementation details and the architec
 
 ## Run the Demo
 
-* Prerequisites: Install VPA in your k8s/OpenShift cluster
-  - k8s: https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler#installation
-  - OpenShift (with Operators): https://docs.openshift.com/container-platform/latest/nodes/pods/nodes-pods-vertical-autoscaler.html
+* Prerequisites: Follow the [prerequisites installation guide](docs/prereqs.md)
 
 * Run the demo:
 
 ```sh
 git clone https://github.com/rcarrata/containerdays22-vpa.git
-bash assets/demo-ocp.sh
+bash assets/demo-k8s.sh
 ```
 
 Enjoy! :)
