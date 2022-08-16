@@ -19,8 +19,8 @@ After this talk, you will understand the implementation details and the architec
 * Run the demo:
 
 ```sh
-git clone https://github.com/rcarrata/kcd2022-vpa.git
-bash assets/demo.sh
+git clone https://github.com/rcarrata/containerdays22-vpa.git
+bash assets/demo-ocp.sh
 ```
 
 Enjoy! :)
