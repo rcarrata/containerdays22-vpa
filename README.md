@@ -31,7 +31,7 @@ If you want to sneak peak the demo without running it in your k8s cluster, check
 
 ## Slides
 
-* [Predictive Autoscaling Patterns with Kubernetes - Slides](https://es.slideshare.net/RobertoCarratalaSanc/container-days-predictive-autoscaling-patterns-with-kubernetespptxpdf)
+* [Predictive Autoscaling Patterns with Kubernetes - Slides](https://es.slideshare.net/RobertoCarratalaSanc/container-days-22-predictive-autoscaling-patterns-with-kubernetespdf)
 
 ## Contributors / Maintainers
 
